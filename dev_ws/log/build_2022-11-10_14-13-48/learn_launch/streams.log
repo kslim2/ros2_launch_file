@@ -1,0 +1,36 @@
+[0.867s] Invoking command in '/home/mike/ros2_cool/08-launch/dev_ws/src/learn_launch': PYTHONPATH=/home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learn_launch build --build-base /home/mike/ros2_cool/08-launch/dev_ws/build/learn_launch/build install --prefix /home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch --record /home/mike/ros2_cool/08-launch/dev_ws/build/learn_launch/install.log --single-version-externally-managed
+[1.138s] running egg_info
+[1.138s] creating ../../build/learn_launch/learn_launch.egg-info
+[1.139s] writing ../../build/learn_launch/learn_launch.egg-info/PKG-INFO
+[1.139s] writing dependency_links to ../../build/learn_launch/learn_launch.egg-info/dependency_links.txt
+[1.139s] writing entry points to ../../build/learn_launch/learn_launch.egg-info/entry_points.txt
+[1.140s] writing requirements to ../../build/learn_launch/learn_launch.egg-info/requires.txt
+[1.140s] writing top-level names to ../../build/learn_launch/learn_launch.egg-info/top_level.txt
+[1.140s] writing manifest file '../../build/learn_launch/learn_launch.egg-info/SOURCES.txt'
+[1.142s] reading manifest file '../../build/learn_launch/learn_launch.egg-info/SOURCES.txt'
+[1.143s] writing manifest file '../../build/learn_launch/learn_launch.egg-info/SOURCES.txt'
+[1.143s] running build
+[1.144s] running build_py
+[1.144s] creating /home/mike/ros2_cool/08-launch/dev_ws/build/learn_launch/build
+[1.144s] creating /home/mike/ros2_cool/08-launch/dev_ws/build/learn_launch/build/lib
+[1.144s] creating /home/mike/ros2_cool/08-launch/dev_ws/build/learn_launch/build/lib/learn_launch
+[1.145s] copying learn_launch/simple.launch.py -> /home/mike/ros2_cool/08-launch/dev_ws/build/learn_launch/build/lib/learn_launch
+[1.145s] copying learn_launch/__init__.py -> /home/mike/ros2_cool/08-launch/dev_ws/build/learn_launch/build/lib/learn_launch
+[1.145s] running install
+[1.145s] running install_lib
+[1.145s] creating /home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch/lib/python3.10/site-packages/learn_launch
+[1.146s] copying /home/mike/ros2_cool/08-launch/dev_ws/build/learn_launch/build/lib/learn_launch/simple.launch.py -> /home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch/lib/python3.10/site-packages/learn_launch
+[1.146s] copying /home/mike/ros2_cool/08-launch/dev_ws/build/learn_launch/build/lib/learn_launch/__init__.py -> /home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch/lib/python3.10/site-packages/learn_launch
+[1.146s] byte-compiling /home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch/lib/python3.10/site-packages/learn_launch/simple.launch.py to simple.launch.cpython-310.pyc
+[1.147s] byte-compiling /home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch/lib/python3.10/site-packages/learn_launch/__init__.py to __init__.cpython-310.pyc
+[1.147s] running install_data
+[1.148s] creating /home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch/share/ament_index
+[1.148s] creating /home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch/share/ament_index/resource_index
+[1.148s] creating /home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch/share/ament_index/resource_index/packages
+[1.149s] copying resource/learn_launch -> /home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch/share/ament_index/resource_index/packages
+[1.150s] copying package.xml -> /home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch/share/learn_launch
+[1.150s] running install_egg_info
+[1.152s] Copying ../../build/learn_launch/learn_launch.egg-info to /home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch/lib/python3.10/site-packages/learn_launch-0.0.0-py3.10.egg-info
+[1.154s] running install_scripts
+[1.173s] writing list of installed files to '/home/mike/ros2_cool/08-launch/dev_ws/build/learn_launch/install.log'
+[1.204s] Invoked command in '/home/mike/ros2_cool/08-launch/dev_ws/src/learn_launch' returned '0': PYTHONPATH=/home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learn_launch build --build-base /home/mike/ros2_cool/08-launch/dev_ws/build/learn_launch/build install --prefix /home/mike/ros2_cool/08-launch/dev_ws/install/learn_launch --record /home/mike/ros2_cool/08-launch/dev_ws/build/learn_launch/install.log --single-version-externally-managed
